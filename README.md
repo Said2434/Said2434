@@ -1,4 +1,4 @@
-<h1 align="center">Hey wassup 👊, I'm Said(Hiro)</h1>
+<h1 align="center">Hey wassup 👊, I'm Sid Adam</h1>
 <h3 align="center">A passionate Deep Learning developer from Mars</h3>
 
 - 🔭 I’m currently working on **Face detection**
