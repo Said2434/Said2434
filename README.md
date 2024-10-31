@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Computer vision**
 
-- 🤝 I’m looking for help with **Money 💰**
-
 - 👨‍💻 All of my projects are available at [Github🫠](Github🫠)
 
 - 📫 How to reach me **saidazamsaidov02@icloud.com**
