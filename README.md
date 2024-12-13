@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out my portfolio at [sidadam.dev](https://www.sidadam.dev)
 
-- 📫 How to reach me: **saidevv.ai@gmail.com.com**
+- 📫 How to reach me: **saidevv.ai@gmail.com**
 
 - ⚡ Fun fact: **I'm a tech explorer with a passion for solving global challenges**
 
