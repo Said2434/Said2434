@@ -45,9 +45,7 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40" />
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tiangolo_fastapi/tiangolo_fastapi-icon.svg" alt="fastapi" width="40" height="40" />
-  </a>
+ 
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="rest api" width="40" height="40" />
   </a>
