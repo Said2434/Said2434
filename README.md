@@ -8,17 +8,7 @@
 - 📫 Reach me at: **saidevv.ai@gmail.com**
 - ⚡ Fun fact: **I’m a tech explorer who loves collaborating at the intersection of backend development and computer vision**
 
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/saidazam-saidov" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saidazam-saidov" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sai_azam" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_azam" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
