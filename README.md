@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Forest structure measurement with satellite data**
 - 🌱 I’m diving deeper into **Uncertainty estimation, anomaly detection, and learning from imbalanced data in deep learning**
 - 🌍 Passionate about using technology to solve **global environmental challenges**
-- 👨‍💻 Check out my portfolio: [sidadam.dev](https://www.sidadam.dev](https://www.saidov.space/)
+- 👨‍💻 Check out my portfolio: (https://www.saidov.space/)
 - 📫 Reach me at: **saidevv.ai@gmail.com**
 - ⚡ Fun fact: **I’m a tech explorer who loves collaborating at the intersection of backend development and computer vision**
 
