@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Saidazam Saidov (Adam)</h1>
+<h1 align="center">Hey there 👋, I'm Saidazam Saidov </h1>
 <h3 align="center">AI Engineer exploring innovative solutions</h3>
 
 - 🔭 I’m currently working on **Forest structure measurement with satellite data**
