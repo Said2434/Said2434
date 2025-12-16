@@ -5,7 +5,7 @@
 - 🌱 I’m diving deeper into **Uncertainty estimation, anomaly detection, and learning from imbalanced data in deep learning**
 - 🌍 Passionate about using technology to solve **global environmental challenges**
 - 👨‍💻 Check out my portfolio: (https://www.saidov.space/)
-- 📫 Reach me at: **saidevv.ai@gmail.com**
+- 📫 Reach me at: **saidev.ai@gmail.com**
 - ⚡ Fun fact: **I’m a tech explorer who loves collaborating at the intersection of backend development and computer vision**
 
 
