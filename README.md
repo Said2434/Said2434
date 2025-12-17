@@ -122,7 +122,7 @@ const saidazam = {
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge)](https://www.saidov.space/)
 [![Email](https://img.shields.io/badge/📧_Email-Send_Message-EA4335?style=for-the-badge)](mailto:saidev.ai@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/saidazam-saidov/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0A66C2?style=for-the-badge)]([https://www.linkedin.com/in/saidazam-saidov/](https://www.linkedin.com/in/saidazam-saidov-a1a950279/))
 
 </div>
 
