@@ -140,7 +140,7 @@ Did you know? The first computer bug was an actual bug! 🐛 In 1947, Grace Hopp
 
 ---
 
-**⭐ From [MazadiaS](https://github.com/MazadiaS) | Built with 💙 and lots of ☕**
+**⭐ From [Saidazam](https://github.com/MazadiaS) | Built with 💙 and lots of ☕**
 
 ![Bottom Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
