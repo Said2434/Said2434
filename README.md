@@ -4,7 +4,6 @@
 
 ### AI/ML Engineer | Backend Developer | Tech Explorer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-saidov.space-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.saidov.space/)
 [![Email](https://img.shields.io/badge/Email-saidev.ai%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidev.ai@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidazam-saidov/)
 
